@@ -1,3 +1,3 @@
 # sitemap
-  - sitemap.xml
-  - .nojekyll
+sitemap.xml
+.nojekyll
