@@ -1,2 +1,2 @@
 # sitemap
-sitemap
+sitemap.xml
